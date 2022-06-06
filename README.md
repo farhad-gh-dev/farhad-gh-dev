@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhad</h1>
 <h3 align="center">A frontend engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhad-gh-dev" alt="farhad-gh-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/farhad_dev" target="blank"><img src="https://img.shields.io/twitter/follow/farhad_dev?logo=twitter&style=for-the-badge" alt="farhad_dev" /></a> </p>
 
 - 🔭 I’m currently working on [Game Guide](game-guide-app.vercel.app/)
