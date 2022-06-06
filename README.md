@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhad</h1>
-<h3 align="center">A frontend engineer</h3>
-
-<p align="left"> <a href="https://twitter.com/farhad_dev" target="blank"><img src="https://img.shields.io/twitter/follow/farhad_dev?logo=twitter&style=for-the-badge" alt="farhad_dev" /></a> </p>
+<h3 align="center">A Frontend Engineer</h3>
 
 - 🔭 I’m currently working on [Game Guide](game-guide-app.vercel.app/)
 
@@ -24,8 +22,7 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad-gh-dev&show_icons=true&locale=en&layout=compact" alt="farhad-gh-dev" /></p>
-<br />
-<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad-gh-dev&show_icons=true&locale=en" alt="farhad-gh-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-gh-dev&" alt="farhad-gh-dev" /></p>
