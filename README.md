@@ -25,4 +25,4 @@
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=farhad-gh-dev&show_icons=true&locale=en&theme=dark&background=000000" alt="farhad-gh-dev" /></p>
 <br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-gh-dev&theme=dark&background=000000" alt="farhad-gh-dev" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-gh-dev&theme=dark&background=000000)" alt="farhad-gh-dev" /></p>
