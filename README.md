@@ -1,28 +1,21 @@
-<h1 align="center">Hi 👋, I'm Farhad</h1>
-<h3 align="center">A Frontend Engineer</h3>
+# Hi 👋, I'm Farhad
 
-- 🔭 I’m currently working on [Game Guide](https://game-guide-app.vercel.app/)
+Frontend engineer since 2020 — most of it deep in React and TypeScript — now working across the full stack. I've led a frontend team through rebuilding a large ERP SaaS product, and I like owning things end to end: browser extensions, desktop apps, MCP servers, and the services behind them.
 
-- 🌱 I’m currently learning **Data structure and algorithm + Harvard university online course**
+## Building
 
-- 👨‍💻 All of my projects are available at [https://farhad-gholami.vercel.app/](https://farhad-gholami.vercel.app/)
+**[Tessera](https://tesserastudy.com)** — a study-organization platform built around web highlighting, currently in closed beta. Capture text, images, and regions from any page, sync them to a library, curate them into documents, and study with AI over your own material.
 
-- 💬 Ask me about **Typescript, React, Next-js, Python**
+## Learning
 
-- 📫 How to reach me **farhad.dev.contact@gmail.com**
+AWS (working toward Solutions Architect Associate) and system design.
 
-<h3 align="left">Connect with me:</h3>
+A selection of my public work is pinned below; the rest is at [farhad-gholami.vercel.app](https://farhad-gholami.vercel.app/).
 
-<p align="left"><a href="https://twitter.com/farhad_dev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/mohammad-hosein-gholami-462827221" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a></p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,cypress,django,docker,express,figma,gatsby,git,gulp,heroku,html,js,jest,materialui,mongodb,nodejs,postgres,postman,python,react,redux,sass,tailwind,ts,webpack,xd&perline=10" alt="skills" /></a></p>
+[Email](mailto:farhad.dev.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/mohammad-hosein-gholami-462827221)
 
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad-gh-dev&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="farhad-gh-dev" /></p>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=farhad-gh-dev&show_icons=true&locale=en&theme=dark&background=000000" alt="farhad-gh-dev" /></p>
-<br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-gh-dev&theme=dark&background=000000)" alt="farhad-gh-dev" /></p>
