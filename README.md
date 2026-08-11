@@ -1,6 +1,6 @@
 # Hi 👋, I'm Farhad
 
-Frontend engineer since 2020 — most of it deep in React and TypeScript — now working across the full stack. I've led a frontend team through rebuilding a large ERP SaaS product, and I like owning things end to end: browser extensions, desktop apps, MCP servers, and the services behind them.
+Frontend engineer since 2021 — most of it deep in React and TypeScript — now working across the full stack. I've led a frontend team through rebuilding a large ERP SaaS product, and I like owning things end to end: browser extensions, desktop apps, MCP servers, and the services behind them.
 
 ## Building
 
